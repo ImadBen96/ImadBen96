@@ -15,8 +15,8 @@
     <a href="mailto:ibenomar536@gmail.com"><img src="https://img.shields.io/badge/ibenomar536@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <hr>
-<h1 align="left">Languages and Tools :</h1>
-<p align="left">
+<h1 align="center">Languages and Tools :</h1>
+<p align="center">
   <a href="#" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0cc931be-6e3d-4c05-99c0-ab6aa21a88ee" /></a> 
   <a href="#" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5c9e71de-1d2d-4ed8-ab9c-06d7c054a629" /></a> 
   <a href="#" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/39a716dc-2f97-4f95-844a-b74ee096dfb1" /></a> 
