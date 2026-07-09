@@ -3,6 +3,8 @@
 <div align="center">
   <img src="https://github.com/ImadBen96/ImadBen96/blob/main/profile_banner.png" alt="profile Banner">
 </div>
-## 📇📇 Contact me 📇📇
+<p  align="center">I'm a Software Developer passionate about creating modern web applications and solving complex problems through technology. I specialize in building secure, scalable, and responsive applications</p>
+<h1 align="center">📇📇 Contact me 📇📇</h1>
+
 
 
