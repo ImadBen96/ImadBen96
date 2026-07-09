@@ -34,12 +34,12 @@
   <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/71d114a8-767c-4436-8195-163fd425e928" /></a> 
   <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/676b72d8-ef82-45d0-bc2d-45978ce249a6" /></a> 
   <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b4353662-bb62-49eb-9c23-ae84066d1104" /></a> 
-  <a href="" target="_blank" rel="noreferrer"></a> 
-  <a href="" target="_blank" rel="noreferrer"></a> 
-  <a href="" target="_blank" rel="noreferrer"></a> 
-  <a href="" target="_blank" rel="noreferrer"></a> 
-  <a href="" target="_blank" rel="noreferrer"></a> 
-  <a href="" target="_blank" rel="noreferrer"></a> 
+  <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9f9c0583-279d-4d5f-a6a4-11fe4daf00dc" /></a> 
+  <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1ca31930-c4de-4569-b25e-603a13111a9c" /></a> 
+  <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/87504152-f4e0-4d5c-91e1-9e1d401d24ee" /></a> 
+  <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/77b0b59b-5476-4fd5-98b1-05a72416b7fc" /></a> 
+  <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/47e67cfc-5f83-4600-b522-467b1d081e5b" /></a> 
+  <a href="" target="_blank" rel="noreferrer"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9402f6ad-f7cf-45a1-ab10-44d86d596766" /></a> 
   <a href="" target="_blank" rel="noreferrer"></a> 
   <a href="" target="_blank" rel="noreferrer"></a> 
   <a href="" target="_blank" rel="noreferrer"></a> 
