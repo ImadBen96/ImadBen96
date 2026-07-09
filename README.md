@@ -4,7 +4,17 @@
   <img src="https://github.com/ImadBen96/ImadBen96/blob/main/profile_banner.png" alt="profile Banner">
 </div>
 <p  align="center">I'm a Software Developer passionate about creating modern web applications and solving complex problems through technology. I specialize in building secure, scalable, and responsive applications</p>
-<h1 align="center">📇📇 Contact me 📇📇</h1>
+<h1 align="center">📝 Contact me 📝</h1>
+<p align="center">
+    <a href="https://github.com/ImadBen96"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"></a>
+    <a href="https://www.linkedin.com/in/imad-gannoun-302199231"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://www.instagram.com/imad_gannoun/"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.facebook.com/IMAD.GN/"><img src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="tel:+212676665561"><img src="https://img.shields.io/badge/+212603768705-black?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://www.imadgannoun.com"><img src="https://img.shields.io/badge/🌐-imadgannoun.com-gray?style=for-the-badge"></a>
+    <a href="mailto:ibenomar536@gmail.com"><img src="https://img.shields.io/badge/ibenomar536@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+<hr>
 
 
 
